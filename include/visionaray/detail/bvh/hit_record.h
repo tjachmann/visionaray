@@ -9,10 +9,10 @@
 #include <cstddef>
 #include <type_traits>
 
-#include <visionaray/math/simd/type_traits.h>
-#include <visionaray/math/ray.h>
-#include <visionaray/array.h>
-#include <visionaray/update_if.h>
+#include "../../math/simd/type_traits.h"
+#include "../../math/ray.h"
+#include "../../array.h"
+#include "../../update_if.h"
 
 namespace visionaray
 {

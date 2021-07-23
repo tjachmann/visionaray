@@ -9,7 +9,7 @@
 #include <type_traits>
 #include <utility>
 
-#include <visionaray/array.h>
+#include "../../array.h"
 
 // TODO: should not depend on this
 #include "hit_record.h"

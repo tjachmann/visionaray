@@ -6,9 +6,9 @@
 #include <type_traits>
 #include <utility>
 
-#include <visionaray/bvh.h>
-#include <visionaray/intersector.h>
-#include <visionaray/update_if.h>
+#include "../bvh.h"
+#include "../intersector.h"
+#include "../update_if.h"
 
 #include "exit_traversal.h"
 #include "macros.h"

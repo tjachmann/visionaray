@@ -11,9 +11,9 @@
 #include <type_traits>
 #include <vector>
 
-#include <visionaray/math/aabb.h>
-#include <visionaray/math/sphere.h>
-#include <visionaray/math/triangle.h>
+#include "../../math/aabb.h"
+#include "../../math/sphere.h"
+#include "../../math/triangle.h"
 
 #include "build_top_down.h"
 

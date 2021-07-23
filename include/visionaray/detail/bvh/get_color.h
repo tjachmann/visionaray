@@ -8,7 +8,7 @@
 
 #include <type_traits>
 
-#include <visionaray/tags.h>
+#include "../tags.h"
 
 namespace visionaray
 {

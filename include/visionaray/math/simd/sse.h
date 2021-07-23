@@ -11,7 +11,7 @@
 #pragma GCC diagnostic ignored "-Wignored-attributes"
 #endif
 
-#include <visionaray/detail/macros.h>
+#include "../../detail/macros.h"
 
 #include "detail/common.h"
 #include "forward.h"

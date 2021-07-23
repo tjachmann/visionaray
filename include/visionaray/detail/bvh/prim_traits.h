@@ -8,7 +8,7 @@
 
 #include <type_traits>
 
-#include <visionaray/prim_traits.h>
+#include "../../prim_traits.h"
 
 namespace visionaray
 {

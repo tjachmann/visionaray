@@ -3,6 +3,8 @@
 
 #pragma once
 
+#define MATH_USE_STD_ARRAY
+
 #ifndef VSNRAY_MATH_CONFIG_H
 #define VSNRAY_MATH_CONFIG_H 1
 
@@ -19,7 +21,7 @@
 // Project specific macros for host or device functions (or both)
 //
 
-#include <visionaray/detail/macros.h>
+#include "../detail/macros.h"
 
 #ifndef MATH_FUNC
 #define MATH_FUNC VSNRAY_FUNC
@@ -45,7 +47,7 @@ template <typename T, size_t N>
 using array = std::array<T, N>;
 
 #else
-#include <visionaray/array.h>
+#include "../visionaray/array.h"
 #endif
 
 #endif // VSNRAY_MATH_CONFIG_H

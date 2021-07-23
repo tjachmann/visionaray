@@ -5,9 +5,9 @@
 #include <type_traits>
 #include <utility>
 
-#include <visionaray/math/matrix.h>
-#include <visionaray/intersector.h>
-#include <visionaray/update_if.h>
+#include "../../math/matrix.h"
+#include "../../intersector.h"
+#include "../../update_if.h"
 
 #include "../exit_traversal.h"
 #include "../stack.h"

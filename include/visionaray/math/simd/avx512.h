@@ -6,7 +6,7 @@
 #ifndef VSNRAY_MATH_SIMD_AVX512_H
 #define VSNRAY_MATH_SIMD_AVX512_H 1
 
-#include <visionaray/detail/macros.h>
+#include "../../detail/macros.h"
 
 #include "detail/common.h"
 #include "forward.h"

@@ -3,7 +3,7 @@
 
 #include <type_traits>
 
-#include <visionaray/math/aabb.h>
+#include "../../math/aabb.h"
 
 namespace visionaray
 {

@@ -10,7 +10,7 @@
 #include <cassert>
 #include <type_traits>
 
-#include <visionaray/aligned_vector.h>
+#include "../../aligned_vector.h"
 
 #include "../algorithm.h"
 

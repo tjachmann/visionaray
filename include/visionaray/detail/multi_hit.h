@@ -9,8 +9,8 @@
 #include <cstddef>
 #include <type_traits>
 
-#include <visionaray/math/simd/type_traits.h>
-#include <visionaray/array.h>
+#include "../math/simd/type_traits.h"
+#include "../array.h"
 
 #include "tags.h"
 

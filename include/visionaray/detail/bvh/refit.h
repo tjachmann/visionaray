@@ -12,7 +12,7 @@
 #include <mutex>
 #include <thread>
 
-#include <visionaray/aligned_vector.h>
+#include "../../aligned_vector.h"
 
 #include "../parallel_for.h"
 #include "../range.h"

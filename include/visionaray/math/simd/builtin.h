@@ -6,7 +6,7 @@
 #ifndef VSNRAY_SIMD_BUILTIN_H
 #define VSNRAY_SIMD_BUILTIN_H 1
 
-#include <visionaray/detail/macros.h>
+#include "../../detail/macros.h"
 
 #include "detail/common.h"
 #include "forward.h"

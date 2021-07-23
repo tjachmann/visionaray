@@ -3,7 +3,7 @@
 
 #include <type_traits>
 
-#include <visionaray/detail/algorithm.h>
+#include "../../detail/algorithm.h"
 
 #include "../simd/type_traits.h"
 #include "../config.h"

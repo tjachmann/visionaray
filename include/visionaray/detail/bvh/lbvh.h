@@ -14,8 +14,8 @@
 #include <thrust/sort.h>
 #endif
 
-#include <visionaray/aligned_vector.h>
-#include <visionaray/morton.h>
+#include "../../aligned_vector.h"
+#include "../../morton.h"
 
 #ifdef _WIN32
 #include <intrin.h>

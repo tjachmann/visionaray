@@ -9,7 +9,7 @@
 #include <cstddef>
 #include <new>
 
-#include <visionaray/math/simd/intrinsics.h> // VSNRAY_ARCH
+#include "../math/simd/intrinsics.h"
 
 #include "macros.h"
 
